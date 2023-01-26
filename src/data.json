@@ -1,0 +1,248 @@
+[
+    {
+        "name": "Store",
+        "moduleId": 1,
+        "parentId": 0,
+        "children": [
+            {
+                "name": "Mobile",
+                "moduleId": 6,
+                "parentId": 1,
+                "children": [
+                    {
+                        "name": "Realme",
+                        "moduleId": 11,
+                        "parentId": 6,
+                        "children": [
+                            {
+                                "name": "Form1",
+                                "moduleId": 16,
+                                "parentId": 11,
+                                "path": "/Form-1"
+                            },
+                            {
+                                "name": "Form2",
+                                "moduleId": 17,
+                                "parentId": 11
+                            },
+                            {
+                                "name": "Form3",
+                                "moduleId": 18,
+                                "parentId": 11
+                            },
+                            {
+                                "name": "Form4 ",
+                                "moduleId": 19,
+                                "parentId": 11
+                            },
+                            {
+                                "name": "Form5",
+                                "moduleId": 20,
+                                "parentId": 11
+                            }
+                        ]
+                    },
+                    {
+                        "name": "samsung",
+                        "moduleId": 12,
+                        "parentId": 5,
+                        "children": [
+                            {
+                                "name": "form6",
+                                "moduleId": 21,
+                                "parentId": 12
+                            },
+                            {
+                                "name": "form7 ",
+                                "moduleId": 22,
+                                "parentId": 12
+                            },
+                            {
+                                "name": "form8",
+                                "moduleId": 23,
+                                "parentId": 12
+                            },
+                            {
+                                "name": "form9",
+                                "moduleId": 24,
+                                "parentId": 12
+                            },
+                            {
+                                "name": "form10",
+                                "moduleId": 25,
+                                "parentId": 12
+                            }
+                        ]
+                    },
+                    {
+                        "name": "POCO",
+                        "moduleId": 13,
+                        "parentId": 5,
+                        "children": []
+                    },
+                    {
+                        "name": "Iphone",
+                        "moduleId": 14,
+                        "parentId": 5,
+                        "children": []
+                    },
+                    {
+                        "name": "Redmi",
+                        "moduleId": 15,
+                        "parentId": 5,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "name": "Electronics",
+                "moduleId": 7,
+                "parentId": 1,
+                "children": [
+                    {
+                        "name": "hp",
+                        "moduleId": 41,
+                        "parentId": 7,
+                        "children": []
+                    },
+                    {
+                        "name": "apple",
+                        "moduleId": 42,
+                        "parentId": 5,
+                        "children": []
+                    },
+                    {
+                        "name": "boat",
+                        "moduleId": 43,
+                        "parentId": 5,
+                        "children": []
+                    },
+                    {
+                        "name": "dell",
+                        "moduleId": 44,
+                        "parentId": 5,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "name": "Grocery",
+                "moduleId": 8,
+                "parentId": 1,
+                "children": []
+            },
+            {
+                "name": "Handmade",
+                "moduleId": 9,
+                "parentId": 1,
+                "children": []
+            }
+        ]
+    },
+    {
+        "name": "Sports",
+        "moduleId": 2,
+        "parentId": 0,
+        "children": [
+            {
+                "name": "Sport Shoes",
+                "moduleId": 166,
+                "path": "/department/science",
+                "parentId": 1,
+                "children": [
+                    {
+                        "name": "Campus",
+                        "moduleId": 171,
+                        "parentId": 6,
+                        "children": [
+                            {
+                                "name": "form11",
+                                "moduleId": 176,
+                                "parentId": 11
+                            },
+                            {
+                                "name": "form12 ",
+                                "moduleId": 177,
+                                "parentId": 11
+                            },
+                            {
+                                "name": "form13",
+                                "moduleId": 178,
+                                "parentId": 11
+                            },
+                            {
+                                "name": " form14",
+                                "moduleId": 179,
+                                "parentId": 11
+                            },
+                            {
+                                "name": "form15",
+                                "moduleId": 180,
+                                "parentId": 11
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Adidas ",
+                        "moduleId": 172,
+                        "parentId": 5,
+                        "children": [
+                            {
+                                "name": "form16",
+                                "moduleId": 181,
+                                "parentId": 12
+                            },
+                            {
+                                "name": "form17",
+                                "moduleId": 182,
+                                "parentId": 12
+                            },
+                            {
+                                "name": "form18",
+                                "moduleId": 183,
+                                "parentId": 12
+                            },
+                            {
+                                "name": "form19",
+                                "moduleId": 184,
+                                "parentId": 12
+                            },
+                            {
+                                "name": "form20 ",
+                                "moduleId": 185,
+                                "parentId": 12
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Puma",
+                        "moduleId": 173,
+                        "parentId": 5,
+                        "children": [
+                            {
+                                "name": "form",
+                                "moduleId": 26,
+                                "parentId": 13
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Bike & Car",
+        "moduleId": 3,
+        "parentId": 0
+    },
+    {
+        "name": "Fashion ",
+        "moduleId": 4,
+        "parentId": 0
+    },
+    {
+        "name": "  Top Offers",
+        "moduleId": 5,
+        "parentId": 0
+    }
+]
